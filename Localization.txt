@@ -1,0 +1,5 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+HDsolarCell,items,Item,,,HD Solar Cell,,,,,,,,,,,
+HDsolarCellDesc,items,Item,,,"Used in the Heavy Duty Solar bank.",,,,,,,,,,,
+HDsolarbank,blocks,Block,,,HD Solar Bank,,,,,,,,,,,
+HDsolarbankDesc,blocks,Block,,,"A heavy duty solar bank for all your electrical needs.\n\n[669966]Crafted at Workbench.[-]",,,,,,,,,,,
